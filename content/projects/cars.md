@@ -17,15 +17,10 @@ title: "Car modification and building"
 
 {{< paige/image
 sizes=""
-src="/assets/game_ss.png"
-style="float:left; max-width: 100%; margin-right: 20px; margin-bottom: 20px;"
-width="50%" >}}
-{{< paige/image
-sizes=""
-src="/assets/top_down_ss.png"
+src="/assets/jetta.jpg"
 style="float:left; max-width: 100%; margin-right: 20px; margin-bottom: 20px;"
 width="50%" >}}
 
-**Project overview:** <br>
-Making video games is a passion of mine, and it helps me apply the things that I have learned in computer science classes in a way that is meaningful to me. I have done all the development of my games in C# in the Visual Studio Code IDE using the Unity game engine. Most of my projects have been to challenge myself and experiment with different concepts. Some of the games that I've made include a side-scrolling parkour game, a virtual reality bowling game, and a 2D top-down shooter game made with no external plugins. These projects have improved my problem-solving abilities and, of course, my coding expertise.
-<br><br>
+
+**Project overview:**
+Cars are probably what originally sparked my interest in engineering. I started modifying my cars as soon as I got my first car at 16. Since then, I have acquired 3 cars and each of them has had a tremendous amount of work put into it. I've done everything from replacing headlight bulbs to full engine rebuilds on these cars. The car in the picture to the left is a 1992 VW Jetta that has a VR6 engine swap. I also have a 1993 Eagle Talon TSI AWD which I am in the process of rebuilding the engine on. As for my daily driver, I have a 2002 Subaru WRX, which was my first car, and sparked my interest in cars and engineering in general. These cars are a way for me to take my problem-solving skills from engineering school and apply them to real life projects. Knowing how to do repairs myself has saved me thousands of dollars in repairs and has taught me a great deal about how these machines work.
