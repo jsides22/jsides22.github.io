@@ -15,6 +15,7 @@ title: "Project Portfolio"
 ---
 
 # **Sophomore Year**<br>
+<a href="#" class="button big">Create Project</a>
 [FPGA Simon game](/projects/simon/)
 # **Freshman Year**<br>
 [Air engine project](/projects/air_engine/)
