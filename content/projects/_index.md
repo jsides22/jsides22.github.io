@@ -8,4 +8,7 @@ paige:
       #paige-title {
           font-size: 5rem;
       }
+      #paige-pages {
+          display: projects;
+      }
 ---
