@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Jack Sides'
 
 [[module.imports]]
-path = "github.com/willfaught/paige"
+path = "github.com/jsides22/jsides22"
 
 [languages.en]
 weight = 10
