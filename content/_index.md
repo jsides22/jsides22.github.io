@@ -17,7 +17,7 @@ title: "Jack Sides"
 
 {{< paige/image
 sizes=""
-src="/assets/profilepic.png"
+src="/assets/profile_picture.jpg"
 style="float:left; max-width: 100%; margin-right: 20px; padding-bottom: 10px;"
 width="25%" >}}
 

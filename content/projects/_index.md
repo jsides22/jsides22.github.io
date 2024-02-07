@@ -1,6 +1,6 @@
 ---
-description: "Demonstrations of Paige content."
-title: "Content"
+description: "A list of projects that I have worked on over the years."
+title: "Project Portfolio"
 paige:
     style: |
       #paige-collections,
