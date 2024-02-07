@@ -13,3 +13,9 @@ paige:
     }
 title: "Project 1"
 ---
+
+{{< paige/image
+sizes=""
+src="/assets/engine_photo.jpg"
+style="float:center; max-width: 100%; margin-right: 20px; padding-bottom: 10px;"
+width="50%" >}}
