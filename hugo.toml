@@ -21,12 +21,6 @@ url = "/projects/"
 weight = 10
 
 [[languages.en.menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
-
-[[languages.en.menu.main]]
 identifier = "resume"
 name = "Resume"
 url = "/assets/resume.pdf"

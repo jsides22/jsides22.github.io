@@ -1,8 +1,6 @@
 ---
 description: "Computer Engineering | Computer Science"
 paige:
-  search:
-    hide_page: true
   style: |
     #paige-collections,
     #paige-sections,
