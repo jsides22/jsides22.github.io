@@ -4,6 +4,7 @@ paige:
   style: |
     #paige-collections,
     #paige-sections,
+    #paige-reading-time,
     #paige-pages {
         display: none;
     }
