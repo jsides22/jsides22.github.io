@@ -1,5 +1,21 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Jack Sides'
+
 [[module.imports]]
 path = "github.com/willfaught/paige"
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 10
