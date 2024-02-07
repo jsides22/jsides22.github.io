@@ -13,12 +13,8 @@ paige:
     }
 title: "Oscillating Air Engine"
 ---
-<img src="/static/assets/profile_picture.jpg" alt="image" width="1600" height="1200">
+![picture of engine](/assets/engine_photo.jpg)
 
 
-{{< paige/image
-sizes=""
-src="/assets/engine_photo.jpg"
-style="float:center; max-width: 100%; margin-right: 20px; padding-bottom: 10px;"
-width="50%" >}}
+
 
