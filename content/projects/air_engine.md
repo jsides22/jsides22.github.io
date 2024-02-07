@@ -13,7 +13,9 @@ paige:
     }
 title: "Oscillating Air Engine"
 ---
-![picture of engine](/assets/engine_photo.jpg)
+![picture of engine](/assets/test.png)
+<img src="/static/assets/test.png" alt="image" style="width:300px;height:auto;">
+
 
 
 
