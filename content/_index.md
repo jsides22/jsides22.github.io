@@ -5,6 +5,7 @@ paige:
     #paige-collections,
     #paige-sections,
     #paige-reading-time,
+    #paige-credit,
     #paige-pages {
         display: none;
     }

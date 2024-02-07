@@ -7,6 +7,7 @@ paige:
     #paige-sections,
     #paige-reading-time,
     #paige-date,
+    #paige-credit,
     #paige-pages {
         display: none;
     }
