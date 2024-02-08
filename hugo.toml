@@ -28,6 +28,6 @@ weight = 10
 
 [[languages.en.menu.main]]
 identifier = "contact"
-name = "Conatact"
+name = "Contact"
 url = "/contact/"
 weight = 10

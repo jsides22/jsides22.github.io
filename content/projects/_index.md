@@ -20,6 +20,8 @@ title: "Project Portfolio"
 [FPGA Simon game](/projects/simon/)
 
 [Electrathon racecar](/projects/electrathon/)
+
+[Engineering Maker Camps](/projects/maker_camps/)
 # **Freshman Year**<br>
 [Air engine project](/projects/air_engine/)
 
