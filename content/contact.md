@@ -16,8 +16,6 @@ title: "Contact Me"
 
 If you have any questions or inquiries, please don't hesitate to contact me!
 
-**Phone:** (503) 567-0072
-
 **Email:** jack.0.sides@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/jack-sides/

@@ -21,7 +21,7 @@ src="/assets/profile_picture.jpg"
 style="float:left; max-width: 100%; margin-right: 20px; padding-bottom: 10px;"
 width="25%" >}}
 
-My name is Jack Sides, I'm from Beaverton Oregon, and I'm a Sophomore at George Fox University. I'm studying both Computer Engineering and Computer Science in a dual degree.
+My name is Jack Sides, I'm from Beaverton Oregon, and I'm a Junior at George Fox University. I'm majoring in Electrical Engineering, Computer Engineering and Computer Science.
 
 I have experience in several programming languages including Scala, Java, Python, and Verilog to name a few. I've taken classes in topics such as Data Structures, Digital Logic Design, Analysis of Algorithms, and various other engineering and computer science focused classes. 
 
