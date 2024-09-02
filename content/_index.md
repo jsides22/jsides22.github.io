@@ -1,5 +1,5 @@
 ---
-description: "Computer Engineering | Computer Science"
+description: "Electrical Engineering | Computer Engineering | Computer Science"
 paige:
   style: |
     #paige-collections,
